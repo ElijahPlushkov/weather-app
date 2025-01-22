@@ -17,7 +17,7 @@ This is a simple weather application that fetches real-time weather data for a c
 This project was created as part of an online course to practice working with asynchronous JavaScript (using `async`/`await`) and fetching data from an external API. 
 
 ## Acknowledgments
-This project is based on a video tutorial (https://www.youtube.com/watch?v=lfmg-EJ8gm4&list=WL&index=4&t=40648s) by BroCode. Special thanks to the course instructor, BroCode.
+This project is based on a [video tutorial](https://www.youtube.com/watch?v=lfmg-EJ8gm4&list=WL&index=4&t=40648s) (YouTube link) by BroCode. Special thanks to the course instructor, BroCode.
 
 ## License
 This project is for educational purposes and is not intended for commercial use.
